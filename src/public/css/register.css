@@ -1,0 +1,17 @@
+.required {
+    color: red;
+    font-size: 0.9em;
+    margin-left: 5px;
+}
+.detail-column_error,
+.detail-column_error * {
+    color: red !important;
+    font-size: 0.9em;
+}
+
+.textarea {
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    font-size: 1em;
+}

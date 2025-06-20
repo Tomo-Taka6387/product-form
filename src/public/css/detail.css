@@ -1,0 +1,12 @@
+.detail-column_error,
+.detail-column_error * {
+    color: red !important;
+    font-size: 0.9em;
+}
+
+.textarea {
+    width: 200px;
+    height: 100px;
+    padding: 8px;
+    font-size: 1em;
+}
